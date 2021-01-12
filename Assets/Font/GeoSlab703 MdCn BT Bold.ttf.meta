@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b851a5b02a62af542bf847e8b98f1074
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GeoSlab703 MdCn BT
+  fontNames:
+  - GeoSlab703 MdCn BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 277f0d831308c0a4ca5c490348ca0d8b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

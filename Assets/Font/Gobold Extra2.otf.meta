@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ad112bca8590fbf45923d420c7dcd1e7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gobold Extra2
+  fontNames:
+  - Gobold Extra2
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f06ac5d6342851d4ebebcc995c9d87cf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

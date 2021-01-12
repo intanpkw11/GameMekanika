@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/Halaman Awal.unity
+    guid: 49bc9921ddc766f4daf48347cddde6b1
+  - enabled: 1
+    path: Assets/Scene/Petani.unity
+    guid: b72f34df2f7ca9f41a529d8bc4975043
+  - enabled: 1
+    path: Assets/Scene/Shop.unity
+    guid: 0674133cde5535b41a9d87660bf732fb
+  - enabled: 1
+    path: Assets/Scene/Credit.unity
+    guid: 451130a413882df40b1a95e718c76fae
+  - enabled: 1
+    path: Assets/Scene/Keluar.unity
+    guid: 9c57aa0c13d44994e8415d66799261fe
+  m_configObjects: {}

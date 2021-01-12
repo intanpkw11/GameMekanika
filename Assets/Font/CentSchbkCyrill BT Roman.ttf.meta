@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9324609cb4f5df14e989e0cf56306ce9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CentSchbkCyrill BT
+  fontNames:
+  - CentSchbkCyrill BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 80e6c1f88d4f05648aea99040e25124f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

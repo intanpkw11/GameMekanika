@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 701ce555ca25ea644a832517b21bf9c5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gobold Hollow
+  fontNames:
+  - Gobold Hollow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3032c8d015bfc7d4984116e20fc5bbd1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
